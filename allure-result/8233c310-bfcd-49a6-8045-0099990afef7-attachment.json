@@ -1,0 +1,14 @@
+[
+  {
+    "createdAt": "2026-03-25 22:38:27.736049 +0300 +0300",
+    "id": "46ac262c-31f7-4d0d-b3db-6db13ba9f46c",
+    "name": "Short voice.",
+    "price": 523351,
+    "sellerId": 273812,
+    "statistics": {
+      "contacts": 1,
+      "likes": 1,
+      "viewCount": 1
+    }
+  }
+]

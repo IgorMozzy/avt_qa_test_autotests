@@ -1,0 +1,38 @@
+[
+  {
+    "createdAt": "2026-03-25 22:38:36.255841 +0300 +0300",
+    "id": "96894848-d31a-4764-8498-69f761a24e12",
+    "name": "Prevent stuff.",
+    "price": 671918,
+    "sellerId": 696857,
+    "statistics": {
+      "contacts": 1039,
+      "likes": 1686,
+      "viewCount": 82664
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:38:36.341484 +0300 +0300",
+    "id": "646de75c-d85c-423e-a42f-098a7a7cf42a",
+    "name": "Miss subject create.",
+    "price": 934009,
+    "sellerId": 696857,
+    "statistics": {
+      "contacts": 4026,
+      "likes": 5376,
+      "viewCount": 96551
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:38:36.417417 +0300 +0300",
+    "id": "bbbaea2e-7aae-4e4e-a67a-8ac6eaa0b1c7",
+    "name": "White place dark young.",
+    "price": 197330,
+    "sellerId": 696857,
+    "statistics": {
+      "contacts": 2731,
+      "likes": 5029,
+      "viewCount": 2171
+    }
+  }
+]

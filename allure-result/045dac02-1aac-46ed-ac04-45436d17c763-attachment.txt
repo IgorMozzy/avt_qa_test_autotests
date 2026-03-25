@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 120' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":324441,"name":"Father simple.","price":514715,"statistics":{"likes":4067,"viewCount":72528,"contacts":4245}}'

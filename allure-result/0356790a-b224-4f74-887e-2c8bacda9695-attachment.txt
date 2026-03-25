@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 119' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":324441,"name":"Radio debate.","price":416777,"statistics":{"likes":1041,"viewCount":93814,"contacts":2593}}'

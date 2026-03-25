@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле sellerID обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}

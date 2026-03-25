@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-type: text/plain' \
+  -H 'content-length: 126' \
+  -d '{"sellerID":873107,"name":"Specific lay region.","price":920323,"statistics":{"likes":1164,"viewCount":11173,"contacts":4922}}'

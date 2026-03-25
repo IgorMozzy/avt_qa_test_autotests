@@ -1,0 +1,41 @@
+[project]
+name = "avito-api-autotests"
+version = "0.1.0"
+description = "Автотесты API для тестового задания"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28",
+    "pydantic>=2.11",
+    "pydantic-settings>=2.10",
+    "pytest>=8.3",
+    "pytest-xdist>=3.8",
+    "pytest-rerunfailures>=15.1",
+    "allure-pytest>=2.15",
+    "faker>=37.1",
+    "jsonschema>=4.23",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11",
+    "ty>=0.0.24",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py314"
+exclude = [".venv"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle - style errors (spacing, indentation)
+    "F",   # pyflakes - unused imports, undefined names
+    "I",   # isort - import sorting
+    "UP",  # pyupgrade - modernize syntax
+    "G",   # flake8-logging - format — logging best practices
+    "B",   # flake8-bugbear - likely bugs and design issues
+    "PT",  # flake8-pytest-style - pytest conventions
+]
+ignore = [
+    "E501",  # line too long - for pytest.param
+]

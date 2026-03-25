@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-type: text/xml' \
+  -H 'content-length: 120' \
+  -d '{"sellerID":238154,"name":"Very southern.","price":635166,"statistics":{"likes":3265,"viewCount":29786,"contacts":1404}}'

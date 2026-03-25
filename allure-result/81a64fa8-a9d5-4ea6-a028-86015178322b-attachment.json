@@ -1,0 +1,614 @@
+[
+  {
+    "createdAt": "2026-02-02 18:16:27.884912 +0300 +0300",
+    "id": "a605ea1b-0570-415c-9c19-3bc2df440fa2",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2026-03-21 10:01:19.283287 +0300 +0300",
+    "id": "34a3ad87-2c97-404d-be67-9dd8f25e2f55",
+    "name": "Машина",
+    "price": 1,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2,
+      "likes": 5,
+      "viewCount": 4
+    }
+  },
+  {
+    "createdAt": "2025-02-16 22:14:02.885723 +0300 +0300",
+    "id": "29350f51-7413-4cb2-be14-c43baa14fa68",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:55:21.283365 +0300 +0300",
+    "id": "e9d347e5-0fb2-4e06-b87b-a44b3fa56615",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:55:47.12291 +0300 +0300",
+    "id": "59db04c1-6223-4ac2-aa96-8121c17304d1",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:00.110719 +0300 +0300",
+    "id": "f026f8aa-4ea5-4fb6-8587-525bc3bd84dc",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:10.5393 +0300 +0300",
+    "id": "2177414d-32f3-43b9-9e53-cf8e7447b5bf",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:20.188887 +0300 +0300",
+    "id": "0f642173-5a6d-4cc4-b4fb-b80d9aec0665",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:31.120131 +0300 +0300",
+    "id": "e8e8ffbc-074b-4710-9b4a-a3846e7cb419",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:39.722451 +0300 +0300",
+    "id": "72e11004-ef9c-479c-b747-98ee728e9dab",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:56:50.88579 +0300 +0300",
+    "id": "b9e98698-91c8-4aab-917f-4384cdf62e86",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:57:07.642907 +0300 +0300",
+    "id": "ac943875-532b-4e33-b443-69116c2a9e06",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:57:18.56865 +0300 +0300",
+    "id": "aefcb058-dbff-45f3-b6ad-0cc3622c8e8d",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:57:28.708141 +0300 +0300",
+    "id": "c7381927-9673-4e99-a434-311fdc5e61bc",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:57:41.088303 +0300 +0300",
+    "id": "fdaeca63-d196-44c2-9866-7cec22159c75",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:57:46.715731 +0300 +0300",
+    "id": "04e20c7b-3590-4f18-865e-180d8ee57074",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:58:14.260228 +0300 +0300",
+    "id": "7f9ad3da-e734-4d58-ad09-2030cd16ac5d",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:58:28.592302 +0300 +0300",
+    "id": "05d4452b-79ea-4f2f-b753-dc0af756faf3",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:58:42.655749 +0300 +0300",
+    "id": "5001d7f1-2824-4227-bdb6-4d32c63cf4fe",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:58:51.299592 +0300 +0300",
+    "id": "e2270e52-a1c9-41a9-9467-4480ce39f2d0",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:59:01.287544 +0300 +0300",
+    "id": "69d57521-130a-4d47-b889-b8b4fc5533f3",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:59:12.662558 +0300 +0300",
+    "id": "228acc66-afc7-46f0-a077-0088614c0c20",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-02-16 21:59:29.163331 +0300 +0300",
+    "id": "c1e70818-fb35-47a6-afe5-1d1d792c4995",
+    "name": "dsdsd",
+    "price": -200,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 0,
+      "likes": 0,
+      "viewCount": 0
+    }
+  },
+  {
+    "createdAt": "2025-12-29 18:13:06.294448 +0300 +0300",
+    "id": "31eb7fab-5647-4cde-9aae-19aee7937d38",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-29 18:16:28.562747 +0300 +0300",
+    "id": "dad7e51e-ceca-44b3-92c6-08de04d9f271",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-29 21:19:03.730797 +0300 +0300",
+    "id": "c72ed468-09c9-41df-ab07-f86547c19cbe",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-29 21:26:44.691374 +0300 +0300",
+    "id": "6af00264-c49c-4ec2-96f8-87ae8ee8593a",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-29 21:27:29.262505 +0300 +0300",
+    "id": "5eef8905-00f9-4754-863c-d87ed6a7a021",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-29 21:40:53.148222 +0300 +0300",
+    "id": "3537f337-d33f-40ab-94ab-b47bc8e8beea",
+    "name": "111",
+    "price": 111,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 11,
+      "likes": 11,
+      "viewCount": 111
+    }
+  },
+  {
+    "createdAt": "2025-12-26 23:36:11.539109 +0300 +0300",
+    "id": "9e9f84cd-952e-44a5-8c64-eb1388e59352",
+    "name": "книга",
+    "price": 99,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 5,
+      "likes": 88,
+      "viewCount": 90
+    }
+  },
+  {
+    "createdAt": "2025-12-26 23:37:37.961219 +0300 +0300",
+    "id": "03706de0-b19f-4dfd-a504-1bcbe4b7f78b",
+    "name": "книга",
+    "price": -99,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": -5,
+      "likes": -88,
+      "viewCount": -90
+    }
+  },
+  {
+    "createdAt": "2025-12-27 11:51:08.937793 +0300 +0300",
+    "id": "ed0463f0-d1eb-413c-9f8c-69262a070b78",
+    "name": "2018 Jaguar E-Pace P300",
+    "price": 2000,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 3,
+      "likes": 12,
+      "viewCount": 13
+    }
+  },
+  {
+    "createdAt": "2025-12-27 19:24:05.395956 +0300 +0300",
+    "id": "3f3a5a1a-d659-4e60-931e-d5c2a77fe960",
+    "name": "2018 Jaguar E-Pace P300",
+    "price": 2000,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 3,
+      "likes": 12,
+      "viewCount": 13
+    }
+  },
+  {
+    "createdAt": "2026-03-21 18:43:58.805613 +0300 +0300",
+    "id": "b68eb9ce-d06b-42e5-b444-8da0aa21b72e",
+    "name": "Few however specific.",
+    "price": 151460,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 313,
+      "likes": 7368,
+      "viewCount": 49007
+    }
+  },
+  {
+    "createdAt": "2026-03-21 19:48:54.648288 +0300 +0300",
+    "id": "eefbcb79-a23c-46d6-98d2-b65f8c99a356",
+    "name": "Day cause common even.",
+    "price": 50243,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2761,
+      "likes": 5150,
+      "viewCount": 47236
+    }
+  },
+  {
+    "createdAt": "2026-03-21 20:47:59.564629 +0300 +0300",
+    "id": "9131ab14-b011-4404-84ec-0de9bdd441b6",
+    "name": "Public.",
+    "price": 46260,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 1541,
+      "likes": 9607,
+      "viewCount": 3226
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:16:26.586166 +0300 +0300",
+    "id": "d53aeef1-c95f-43fa-94b5-50123774ec95",
+    "name": "Continue up another.",
+    "price": 903979,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 223,
+      "likes": 5061,
+      "viewCount": 2460
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:17:03.495423 +0300 +0300",
+    "id": "1c65435f-1096-4a11-905d-eb0e691f9a57",
+    "name": "Class cultural require.",
+    "price": 955580,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 4417,
+      "likes": 5609,
+      "viewCount": 53360
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:18:31.679224 +0300 +0300",
+    "id": "b69393a3-74bd-4d93-89b7-5a828cf5570b",
+    "name": "Daughter wonder.",
+    "price": 568276,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 467,
+      "likes": 1886,
+      "viewCount": 1465
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:19:09.137165 +0300 +0300",
+    "id": "a2cc4266-8e94-4655-940a-ed2f64d4d1d8",
+    "name": "Activity.",
+    "price": 482608,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 1201,
+      "likes": 8468,
+      "viewCount": 27112
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:19:30.107782 +0300 +0300",
+    "id": "dc2a6cd0-b530-431c-bb95-645d55dafb36",
+    "name": "Something watch.",
+    "price": 965406,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2964,
+      "likes": 5240,
+      "viewCount": 18538
+    }
+  },
+  {
+    "createdAt": "2026-03-21 21:21:31.248371 +0300 +0300",
+    "id": "45e0159f-8aa4-483c-ba9a-2195781dd1a8",
+    "name": "Short coach.",
+    "price": 779226,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2906,
+      "likes": 8289,
+      "viewCount": 24228
+    }
+  },
+  {
+    "createdAt": "2026-03-22 16:29:21.374294 +0300 +0300",
+    "id": "73349c4d-c052-4944-a999-b6a3ffac28bc",
+    "name": "Professional only.",
+    "price": 558040,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2252,
+      "likes": 2081,
+      "viewCount": 63520
+    }
+  },
+  {
+    "createdAt": "2026-03-22 17:01:59.72015 +0300 +0300",
+    "id": "6a347961-04cc-4f53-aecd-9496a5b64245",
+    "name": "Natural fact court.",
+    "price": 910081,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 3344,
+      "likes": 2426,
+      "viewCount": 78745
+    }
+  },
+  {
+    "createdAt": "2026-03-22 17:08:19.487189 +0300 +0300",
+    "id": "0a721bcd-e602-4599-b053-d21b36d98294",
+    "name": "Suddenly stock away easy.",
+    "price": 174029,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 1048,
+      "likes": 4413,
+      "viewCount": 51363
+    }
+  },
+  {
+    "createdAt": "2026-03-22 17:12:56.35744 +0300 +0300",
+    "id": "4932d594-1032-4373-a99a-64235ba6ea1c",
+    "name": "Oil born pass.",
+    "price": 674976,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 895,
+      "likes": 6813,
+      "viewCount": 72427
+    }
+  },
+  {
+    "createdAt": "2026-03-22 17:18:00.599831 +0300 +0300",
+    "id": "a6947b58-f675-4e94-a5be-6993096c4de0",
+    "name": "Include my.",
+    "price": 85178,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 1017,
+      "likes": 1471,
+      "viewCount": 99289
+    }
+  },
+  {
+    "createdAt": "2026-03-22 18:33:57.042136 +0300 +0300",
+    "id": "b22aea88-9811-40b9-b2a5-8fcd5ccaa5f7",
+    "name": "Pretty within exactly.",
+    "price": 79236,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 810,
+      "likes": 110,
+      "viewCount": 29275
+    }
+  },
+  {
+    "createdAt": "2026-03-22 19:29:37.728516 +0300 +0300",
+    "id": "f5034582-2387-469c-a309-ac4c97409a4c",
+    "name": "Cover how special.",
+    "price": 988601,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 1274,
+      "likes": 4064,
+      "viewCount": 58499
+    }
+  },
+  {
+    "createdAt": "2026-03-22 19:35:32.053363 +0300 +0300",
+    "id": "25c62f93-737c-493d-98f2-803c79518796",
+    "name": "Maintain suddenly financial.",
+    "price": 501103,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 2268,
+      "likes": 8209,
+      "viewCount": 70235
+    }
+  },
+  {
+    "createdAt": "2026-03-22 20:25:43.881572 +0300 +0300",
+    "id": "8a4c6feb-a6b7-4f9b-b35f-63563fd22ccb",
+    "name": "Kind city.",
+    "price": 851085,
+    "sellerId": -111111,
+    "statistics": {
+      "contacts": 935,
+      "likes": 7256,
+      "viewCount": 60850
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "2026-03-25 22:38:38.504048 +0300 +0300",
+    "id": "cfb64683-f80e-4e50-a948-d9900ad5df50",
+    "name": "Capital computer important.",
+    "price": 156960,
+    "sellerId": 640769,
+    "statistics": {
+      "contacts": 3582,
+      "likes": 1639,
+      "viewCount": 84552
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:38:38.582511 +0300 +0300",
+    "id": "9110ec00-599f-4ad0-9c8a-dd2833f0c38f",
+    "name": "Another apply note.",
+    "price": 560935,
+    "sellerId": 640769,
+    "statistics": {
+      "contacts": 670,
+      "likes": 1053,
+      "viewCount": 57825
+    }
+  }
+]

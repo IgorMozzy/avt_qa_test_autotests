@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 122' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":758413,"name":"Truth father in.","price":835755,"statistics":{"likes":3892,"viewCount":47386,"contacts":2041}}'

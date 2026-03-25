@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле viewCount обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}

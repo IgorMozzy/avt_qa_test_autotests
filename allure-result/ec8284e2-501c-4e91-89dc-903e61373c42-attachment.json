@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле likes обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}
