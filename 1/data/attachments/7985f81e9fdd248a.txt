@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 123' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":713257,"name":"Player onto article.","price":259269,"statistics":{"likes":5593,"viewCount":6666,"contacts":73}}'

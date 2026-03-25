@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле name обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}

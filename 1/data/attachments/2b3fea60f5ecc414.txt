@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 125' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":909879,"name":"Life choose detail.","price":997955,"statistics":{"likes":8885,"viewCount":56611,"contacts":4178}}'

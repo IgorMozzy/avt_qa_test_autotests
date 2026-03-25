@@ -1,0 +1,14 @@
+[
+  {
+    "createdAt": "2026-03-25 22:58:05.595641 +0300 +0300",
+    "id": "1d93274a-0bb1-4854-81f3-62c1c83800bb",
+    "name": "Look first.",
+    "price": 405377,
+    "sellerId": 503468,
+    "statistics": {
+      "contacts": 2459,
+      "likes": 7089,
+      "viewCount": 41225
+    }
+  }
+]

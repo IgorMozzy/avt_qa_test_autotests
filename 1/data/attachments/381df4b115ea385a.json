@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "ID айтема не UUID: invalid-id-format",
+    "messages": {}
+  },
+  "status": "400"
+}

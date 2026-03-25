@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 147' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":338487,"name":"Should soon whole.","price":363359,"statistics":{"likes":9741,"viewCount":71738,"contacts":4680},"unknownField":"value"}'

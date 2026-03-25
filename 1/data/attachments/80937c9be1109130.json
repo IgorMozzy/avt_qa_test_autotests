@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "ID айтема не UUID: ';%20DROP%20TABLE%20items;%20--",
+    "messages": {}
+  },
+  "status": "400"
+}

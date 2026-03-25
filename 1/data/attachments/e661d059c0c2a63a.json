@@ -1,0 +1,14 @@
+[
+  {
+    "createdAt": "2026-03-25 22:57:57.335027 +0300 +0300",
+    "id": "7b417824-4235-4c30-b70b-69f2e8412941",
+    "name": "'; DROP TABLE items; --",
+    "price": 863325,
+    "sellerId": 253390,
+    "statistics": {
+      "contacts": 1779,
+      "likes": 8051,
+      "viewCount": 13475
+    }
+  }
+]

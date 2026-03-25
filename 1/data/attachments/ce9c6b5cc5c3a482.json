@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле contacts обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "createdAt": "2026-03-25 22:58:03.867791 +0300 +0300",
+    "id": "ca6477af-f5f9-4704-95e7-34902c3e5a90",
+    "name": "Water institution result.",
+    "price": 525342,
+    "sellerId": 419345,
+    "statistics": {
+      "contacts": 3418,
+      "likes": 545,
+      "viewCount": 36947
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:58:04.022266 +0300 +0300",
+    "id": "b3f27680-0a73-4eed-b322-2af857a0ce80",
+    "name": "Without.",
+    "price": 871795,
+    "sellerId": 419345,
+    "statistics": {
+      "contacts": 4726,
+      "likes": 3809,
+      "viewCount": 56876
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:58:04.174282 +0300 +0300",
+    "id": "e334d96f-e3aa-489a-a36b-44d387916b0f",
+    "name": "Somebody better important somebody.",
+    "price": 114182,
+    "sellerId": 419345,
+    "statistics": {
+      "contacts": 4923,
+      "likes": 6639,
+      "viewCount": 42271
+    }
+  }
+]

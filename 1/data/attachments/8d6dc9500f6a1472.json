@@ -1,0 +1,14 @@
+[
+  {
+    "createdAt": "2026-03-25 22:57:57.794233 +0300 +0300",
+    "id": "da808e43-6fe2-400d-9fb0-2d13f790e47c",
+    "name": "<script>alert(1)</script>",
+    "price": 101556,
+    "sellerId": 548663,
+    "statistics": {
+      "contacts": 838,
+      "likes": 4263,
+      "viewCount": 10592
+    }
+  }
+]

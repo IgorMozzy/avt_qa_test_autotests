@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "2026-03-25 22:58:08.07998 +0300 +0300",
+    "id": "93b72ed2-654f-4dd1-9bb1-96a115db6968",
+    "name": "Including.",
+    "price": 572550,
+    "sellerId": 933946,
+    "statistics": {
+      "contacts": 3655,
+      "likes": 8297,
+      "viewCount": 81610
+    }
+  },
+  {
+    "createdAt": "2026-03-25 22:58:08.237653 +0300 +0300",
+    "id": "0311630b-3a95-48ba-afb2-b33aca291a2d",
+    "name": "Five animal religious.",
+    "price": 354138,
+    "sellerId": 933946,
+    "statistics": {
+      "contacts": 3128,
+      "likes": 7699,
+      "viewCount": 39383
+    }
+  }
+]

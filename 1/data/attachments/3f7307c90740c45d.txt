@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 118' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":651732,"name":"Think phone.","price":458169,"statistics":{"likes":8218,"viewCount":32823,"contacts":4842}}'

@@ -1,0 +1,7 @@
+{
+  "result": {
+    "message": "поле price обязательно",
+    "messages": {}
+  },
+  "status": "400"
+}

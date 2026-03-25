@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 144' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":193069,"name":"Most scientist.","price":228336,"statistics":{"likes":9953,"viewCount":25165,"contacts":1429,"unknownField":"value"}}'

@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 134' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":944343,"name":"Expect mouth responsibility.","price":500106,"statistics":{"likes":6272,"viewCount":84268,"contacts":3872}}'

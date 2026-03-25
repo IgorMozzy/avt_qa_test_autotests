@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://qa-internship.avito.com/api/1/item' \
+  -H 'host: qa-internship.avito.com' \
+  -H 'accept: */*' \
+  -H 'accept-encoding: gzip, deflate' \
+  -H 'connection: keep-alive' \
+  -H 'user-agent: python-httpx/0.28.1' \
+  -H 'content-length: 132' \
+  -H 'content-type: application/json' \
+  -d '{"sellerID":455969,"name":"Management bring recently.","price":126971,"statistics":{"likes":8388,"viewCount":92136,"contacts":1155}}'
